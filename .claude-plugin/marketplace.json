@@ -1,0 +1,5 @@
+{
+  "name": "mods-locaux",
+  "owner": { "name": "Christophe Havard" },
+  "plugins": [{ "name": "chantiers", "source": "./" }]
+}

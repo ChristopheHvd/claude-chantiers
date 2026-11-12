@@ -1,0 +1,6 @@
+{
+  "name": "chantiers",
+  "version": "0.1.0",
+  "description": "Side pane listing Claude Code sessions by project, with their state",
+  "types": "./types/index.d.ts"
+}
